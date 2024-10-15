@@ -41,7 +41,7 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Builds
-Build/*
+Build[s]/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
