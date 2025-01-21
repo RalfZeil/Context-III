@@ -1,7 +1,7 @@
-#Game Goal
+# Game Goal
 Motivate younger people who like games to play and learn about history in an interactive way.
 
-#Game Description
+# Game Description
 The game begins in a main menu where players can choose their
 preferred language, adjust settings, view credits, quit, or start playing.
 Upon selecting "Play," the player enters a gallery showcasing three
@@ -22,5 +22,5 @@ ambiance, sound effects, and visual enhancements. Key interactions
 throughout the level trigger contextual dialogue to enrich the narrative
 experience.
 
-#Engine
+# Engine
 The game is built with Unreal Engine 5.4
